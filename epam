@@ -1,1 +1,10 @@
-
+class sum
+{
+  public static void main(String ars[])
+  {
+    int x=Integerparse.Int(ars[0]);
+    int y=Integerparse.Int(ars[1]);
+    int z=x+y;
+    System.out.println("sum is"+z);
+  }
+}
